@@ -1,0 +1,12 @@
+1,iphone3GS,100,5000
+2,iphone4,100,8000
+3,iphone4S,100,10000
+4,iphone5,100,15000
+5,iphone5S,100,20000
+6,iphone6,100,28000
+7,iphone6S,100,40000
+8,iphone6SPlus,100,50000
+9,iphone7,100,55000
+10,iphone7Plus,100,60000
+11,MacbookAir,100,80000
+12,MacbookPro,100,150000

@@ -1,0 +1,6 @@
+1,Himesh,Mumbai,himesh@gmail.com
+2,Rahul,Delhi,rahul@gmail.com
+3,Arun,Uttrakhand,arun@gmail.com
+4,Amit,Pune,amit@gmail.com
+5,Hardik,Haryana,hardik@gmail.com 
+6,Ashish,Himachal,ashish@gmail.com
